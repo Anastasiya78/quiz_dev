@@ -1,10 +1,10 @@
 
-var quiztitle = "Data Quiz";
+var quiztitle = "bbdghsbb";
 
 
 var quiz = [
        {
-           "question" : "Who came up with the theory of relativity?",
+           "question" : "vvv",
            "image" : "",
            "choices" : [
                                    "vvv",
