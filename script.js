@@ -7,7 +7,7 @@ var quiz = [
            "question" : "Who came up with the theory of relativity?",
            "image" : "",
            "choices" : [
-                                   "Nicolaus Copernicus",
+                                   "vvv",
                                    "Albert Einstein",
                                    "Ralph Waldo Emmerson"
                                ],
