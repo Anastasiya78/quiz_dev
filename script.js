@@ -1,17 +1,17 @@
 
-var quiztitle = "bbdghsbb";
+var quiztitle = "Stimmt diese Aussage?";
 
 
 var quiz = [
        {
-           "question" : "In der Schweiz sind M??nner h??ufiger sozial engagiert als Frauen",
+           "question" : "In der Schweiz sind Männer häufiger sozial engagiert als Frauen",
            "image" : "",
            "choices" : [
                                    "So ist es!",
                                    "Stimmt nicht!",
                                ],
            "correct" : "So ist es!",
-           "explanation" : "Die Aussage entspricht der Realit??t.In fr??heren Erhebungen zeigte sich zwar ein ??berdurchschnittliches Engagement der M??nner, 2014 engagierten sich M??nner jedoch nur noch leicht st??rker als Frauen.",
+           "explanation" : "Die Aussage entspricht der Realität.In früheren Erhebungen zeigte sich zwar ein überdurchschnittliches Engagement der Männer, 2014 engagierten sich Männer jedoch nur noch leicht stärker als Frauen.",
            "graphics" : '<img src="f.png" alt="Grafik" class="center">'
        },
        {
