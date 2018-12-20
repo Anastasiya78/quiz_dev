@@ -4,16 +4,15 @@ var quiztitle = "bbdghsbb";
 
 var quiz = [
        {
-           "question" : "vvv",
+           "question" : "In der Schweiz sind M??nner h??ufiger sozial engagiert als Frauen",
            "image" : "",
            "choices" : [
-                                   "vvv",
-                                   "Albert Einstein",
-                                   "Ralph Waldo Emmerson"
+                                   "So ist es!",
+                                   "Stimmt nicht!",
                                ],
-           "correct" : "Albert Einstein",
-           "explanation" : "Albert Einstein drafted the special theory of relativity in 1905.",
-           "graphics" : '<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/220px-Albert_Einstein_Head.jpg" alt="Einstein" class="center">'
+           "correct" : "So ist es!",
+           "explanation" : "Die Aussage entspricht der Realit??t.In fr??heren Erhebungen zeigte sich zwar ein ??berdurchschnittliches Engagement der M??nner, 2014 engagierten sich M??nner jedoch nur noch leicht st??rker als Frauen.",
+           "graphics" : '<img src="f.png" alt="Grafik" class="center">'
        },
        {
            "question" : "Who is on the two dollar bill?",
