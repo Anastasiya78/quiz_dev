@@ -10,7 +10,7 @@ var quiz = [
                                    "So ist es!",
                                    "Stimmt nicht!",
                                ],
-           "correct" : "So ist es!",
+           "correct" : "Stimmt nicht!",
            "explanation" : "Die Aussage entspricht nicht der Realitaet.Die meisten engagieren sich in kirchlichen Organisationen.",
            "graphics" : '<img src="/Users/meow/Desktop/Grafik.jpeg" alt="Grafik" class="center">'
        },
