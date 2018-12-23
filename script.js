@@ -1,18 +1,18 @@
 
-var quiztitle = "Stimmt diese Aussage?";
+var quiztitle = "Quiz";
 
 
 var quiz = [
        {
-           "question" : "In der Schweiz sind Männer häufiger sozial engagiert als Frauen",
+           "question" : " Die meisten SchweizerInnen engagieren sich in einem Sportverein.",
            "image" : "",
            "choices" : [
                                    "So ist es!",
                                    "Stimmt nicht!",
                                ],
            "correct" : "So ist es!",
-           "explanation" : "Die Aussage entspricht der Realität.In früheren Erhebungen zeigte sich zwar ein überdurchschnittliches Engagement der Männer, 2014 engagierten sich Männer jedoch nur noch leicht stärker als Frauen.",
-           "graphics" : '<img src="f.png" alt="Grafik" class="center">'
+           "explanation" : "Die Aussage entspricht nicht der Realitaet.Die meisten engagieren sich in kirchlichen Organisationen.",
+           "graphics" : '<img src="/Users/meow/Desktop/Grafik.jpeg" alt="Grafik" class="center">'
        },
        {
            "question" : "Who is on the two dollar bill?",
