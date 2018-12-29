@@ -7,7 +7,7 @@ var quiz = [
            "question" : " Die meisten SchweizerInnen engagieren sich in einem Sportverein.",
            "image" : "",
            "choices" : [
-                                   "So ist es!",
+                                   "So ist esäääää!",
                                    "Stimmt nicht!",
                                ],
            "correct" : "Stimmt nicht!",
