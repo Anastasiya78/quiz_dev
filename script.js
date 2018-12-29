@@ -11,8 +11,8 @@ var quiz = [
                                    "Stimmt nicht!",
                                ],
            "correct" : "Stimmt nicht!",
-           "explanation" : "Die Aussage entspricht nicht der Realitaet.Die meisten engagieren sich in kirchlichen Organisationen.",
-           "graphics" : '<img src="/Users/meow/Desktop/Grafik.jpeg" alt="Grafik" class="center">'
+           "explanation" : "Die Aussage entspricht nicht der Realität.Die meisten engagieren sich in kirchlichen Organisationen.",
+           "graphics" : '<img src="img/f.png" alt="Grafik" class="center">'
        },
        {
            "question" : "Who is on the two dollar bill?",
