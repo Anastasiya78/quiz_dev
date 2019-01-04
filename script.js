@@ -4,7 +4,7 @@ var quiztitle = "Quiz";
 
 var quiz = [
        {
-           "question" : " ppDie meisten Ausländer haben einen italienischen Pass.",
+           "question" : " Die meisten Ausländer haben einen italienischen Pass.",
            "image" : "",
            "choices" : [
                                    "So ist es!",
