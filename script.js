@@ -23,7 +23,7 @@ var quiz = [
                                ],
            "correct" : "So ist es!",
            "explanation" : "Im Jahr 2017 wohnten in Zürich mehr Männer mit einem ausländischen Pass",
-           "graphics" : '<img src="img/2.png" alt="Geschlecht" class="custom_class" height="300" width="300">'
+           "graphics" : '<img src="img/2.png" alt="Geschlecht" class="custom_class">'
        },
        {
            "question" : "Der Ausländeranteil ist im Oerlikon am grössten.",
@@ -34,7 +34,7 @@ var quiz = [
                                ],
            "correct" : "Stimmt nicht!",
            "explanation" : "In der Mitte",
-           "graphics" : '<img src="img/3.png" alt="Stadtquartier" class="custom_class" height="500" width="500">'
+           "graphics" : '<img src="img/3.png" alt="Stadtquartier" class="custom_class">'
        },
        {
            "question" : "Die Mehrheit der <18 Jährigen in Zürich sind Ausländer",
@@ -45,7 +45,7 @@ var quiz = [
                                ],
            "correct" : "Stimmt nicht!",
            "explanation" : "Fast",
-           "graphics" : '<img src="img/4.png" alt="Alter" class="custom_class" height="500" width="500">'
+           "graphics" : '<img src="img/4.png" alt="Alter" class="custom_class">'
        },
        {
            "question" : "Mehr als die Hälfte der Ausländer sind ledig.",
@@ -56,7 +56,7 @@ var quiz = [
                                ],
            "correct" : "So ist es!",
            "explanation" : "In der Mitte",
-           "graphics" : '<img src="img/5.png" alt="Zivilstand" class="custom_class" height="300" width="300">'
+           "graphics" : '<img src="img/5.png" alt="Zivilstand" class="custom_class">'
        },
        
        {
@@ -68,7 +68,7 @@ var quiz = [
                                ],
            "correct" : "Stimmt nicht!",
            "explanation" : "Im Jahr 2017 wohnten in Zürich mehr Männer mit einem ausländischen Pass",
-           "graphics" : '<img src="img/6.png" alt="Kinder" class="custom_class" height="500" width="500">'
+           "graphics" : '<img src="img/6.png" alt="Kinder" class="custom_class">'
        },
 
    ];
