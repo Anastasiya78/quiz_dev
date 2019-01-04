@@ -4,18 +4,18 @@ var quiztitle = "Quiz";
 
 var quiz = [
        {
-           "question" : " Die meisten Ausländer haben einen italienischen Pass.",
+           "question" : " Die Hälfte der Ausländer in Zürich hat einen deutschen Pass.",
            "image" : "",
            "choices" : [
                                    "So ist es!",
                                    "Stimmt nicht!",
                                ],
-           "correct" : "So ist es!",
+           "correct" : "Stimmt nicht!",
            "explanation" : "Die Aussage entspricht nicht der Realität.",
            "graphics" : '<img src="img/1.png" alt="Nationalitäten" class="custom_class">'
        },
        {
-           "question" : "Mehr Männer als Frauen sind Ausländer",
+           "question" : "Nach Zürich ziehen aus dem Ausland mehr Männer als Frauen.",
            "image" : "",
            "choices" : [
                                    "So ist es!",
@@ -26,47 +26,47 @@ var quiz = [
            "graphics" : '<img src="img/2.png" alt="Geschlecht" class="custom_class">'
        },
        {
-           "question" : "Der Ausländeranteil ist im Oerlikon am grössten.",
+           "question" : "Unter Zürcher Stadtquartieren weist Oerlikon den höchsten Ausländeranteil auf:.",
            "image" : "",
            "choices" : [
                                    "So ist es!",
                                    "Stimmt nicht!"
                                ],
            "correct" : "Stimmt nicht!",
-           "explanation" : "In der Mitte",
+           "explanation" : "Den höchsten Ausländeranteil weist Schwamendingen auf: Fast die Hälfte (42,3 Prozent) der Einwohner des Quartiers hat keinen roten Pass. Vergleichsweise multikulturell sind auch Seefeld und Seebach mit jeweils über 39 Prozent. Wenig Ausländer wohnen hingegen in Höngg, Witikon und vor allem Friesenberg, wo sie nur 18,5 Prozent der Bevölkerung stellen.",
            "graphics" : '<img src="img/3.png" alt="Stadtquartier" class="custom_class">'
        },
        {
-           "question" : "Die Mehrheit der <18 Jährigen in Zürich sind Ausländer",
+           "question" : "Mehr als 40% der 20 bis 39-Jährigen in Zürich haben keinen Schweizer Pass.",
            "image" : "",
            "choices" : [
                                    "So ist es!",
                                    "Stimmt nicht!",
                                ],
-           "correct" : "Stimmt nicht!",
+           "correct" : "So ist es!",
            "explanation" : "Fast",
            "graphics" : '<img src="img/4.png" alt="Alter" class="custom_class">'
        },
        {
-           "question" : "Mehr als die Hälfte der Ausländer sind ledig.",
+           "question" : "Ein Drittel der Ausländer in Zürich ist ledig.",
            "image" : "",
            "choices" : [
                                    "So ist es!",
                                    "Stimmt nicht!"
                                ],
-           "correct" : "So ist es!",
+           "correct" : "Stimmt nicht!",
            "explanation" : "In der Mitte",
            "graphics" : '<img src="img/5.png" alt="Zivilstand" class="custom_class">'
        },
        
        {
-           "question" : "Die meisten Ausländer haben Kinder",
+           "question" : "Mehr als 80% der Ausländer in Zürich haben keine Kinder",
            "image" : "",
            "choices" : [
                                    "So ist es!",
                                    "Stimmt nicht!",
                                ],
-           "correct" : "Stimmt nicht!",
+           "correct" : "So ist es!",
            "explanation" : "Im Jahr 2017 wohnten in Zürich mehr Männer mit einem ausländischen Pass",
            "graphics" : '<img src="img/6.png" alt="Kinder" class="custom_class">'
        },
