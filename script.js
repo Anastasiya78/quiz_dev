@@ -12,7 +12,7 @@ var quiz = [
                                ],
            "correct" : "So ist es!",
            "explanation" : "Die Aussage entspricht nicht der Realität.",
-           "graphics" : '<img src="img/1.png" alt="Nationalitäten" class="center" height="200" width="200">'
+           "graphics" : '<img src="img/1.png" alt="Nationalitäten" class="center" height="1000" width="1000">'
        },
        {
            "question" : "Mehr Männer als Frauen sind Ausländer",
