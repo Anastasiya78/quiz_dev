@@ -92,7 +92,7 @@ img.question-image {
   display: block;
   margin: 10px auto;
   height: auto; }
-
+  
 #choice-block {
   display: block;
   list-style: none;
@@ -109,10 +109,10 @@ img.question-image {
   font-size: 90%; }
   @media (min-width: 320px) and (max-width: 1000px) {
     #explanation {
-      width: 50%; } }
+      width: 60%; } }
   @media (min-width: 1001px) {
     #explanation {
-      width: 40%; } }
+      width: 60%; } }
 
 .choice {
   background: #FFCFB3; }
@@ -140,6 +140,15 @@ img.question-image {
 .disabled {
   pointer-events: none;
   opacity: 0.7; }
+  
+.custom_class {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 70%;
+    margin-bottom: 30px;
+}
 
 .center {
   display: block;
