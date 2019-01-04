@@ -4,7 +4,7 @@ var quiztitle = "Quiz";
 
 var quiz = [
        {
-           "question" : " Die meisten Ausländer haben einen italienischen Pass.",
+           "question" : " ppDie meisten Ausländer haben einen italienischen Pass.",
            "image" : "",
            "choices" : [
                                    "So ist es!",
@@ -12,7 +12,7 @@ var quiz = [
                                ],
            "correct" : "So ist es!",
            "explanation" : "Die Aussage entspricht nicht der Realität.",
-           "graphics" : '<img src="img/1.png" alt="Nationalitäten" class="custom_class" height="500" width=500">'
+           "graphics" : '<img src="img/1.png" alt="Nationalitäten" class="custom_class">'
        },
        {
            "question" : "Mehr Männer als Frauen sind Ausländer",
