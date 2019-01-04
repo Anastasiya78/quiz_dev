@@ -4,43 +4,72 @@ var quiztitle = "Quiz";
 
 var quiz = [
        {
-           "question" : " Die meisten SchweizerInnen engagieren sich in einem Sportverein.",
+           "question" : " Die meisten Ausländer haben einen italienischen Pass.",
            "image" : "",
            "choices" : [
-                                   "So ist esäääää!",
+                                   "So ist es!",
+                                   "Stimmt nicht!",
+                               ],
+           "correct" : "So ist es!",
+           "explanation" : "Die Aussage entspricht nicht der Realität.",
+           "graphics" : '<img src="img/1.png" alt="Nationalitäten" class="center">'
+       },
+       {
+           "question" : "Mehr Männer als Frauen sind Ausländer",
+           "image" : "",
+           "choices" : [
+                                   "So ist es!",
+                                   "Stimmt nicht!",
+                               ],
+           "correct" : "So ist es!",
+           "explanation" : "Im Jahr 2017 wohnten in Zürich mehr Männer mit einem ausländischen Pass",
+           "graphics" : '<img src="img/2.png" alt="Geschlecht" class="center">'
+       },
+       {
+           "question" : "Der Ausländeranteil ist im Oerlikon am grössten.",
+           "image" : "",
+           "choices" : [
+                                   "So ist es!",
+                                   "Stimmt nicht!"
+                               ],
+           "correct" : "Stimmt nicht!",
+           "explanation" : "In der Mitte",
+           "graphics" : '<img src="img/3.png" alt="Stadtquartier" class="center">'
+       },
+       {
+           "question" : "Die Mehrheit der <18 Jährigen in Zürich sind Ausländer",
+           "image" : "",
+           "choices" : [
+                                   "So ist es!",
                                    "Stimmt nicht!",
                                ],
            "correct" : "Stimmt nicht!",
-           "explanation" : "Die Aussage entspricht nicht der Realität.Die meisten engagieren sich in kirchlichen Organisationen.",
-           "graphics" : '<img src="img/f.png" alt="Grafik" class="center">'
+           "explanation" : "Fast",
+           "graphics" : '<img src="img/4.png" alt="Alter" class="center">'
        },
        {
-           "question" : "Who is on the two dollar bill?",
-           "image" : "http://upload.wikimedia.org/wikipedia/commons/thumb/9/94/US_%242_obverse-high.jpg/320px-US_%242_obverse-high.jpg",
-           "choices" : [
-                                   "Thomas Jefferson",
-                                   "Dwight D. Eisenhower",
-                                   "Benjamin Franklin",
-                                   "Abraham Lincoln"
-                               ],
-           "correct" : "Thomas Jefferson",
-           "explanation" : "The two dollar bill is seldom seen in circulation. As a result, some businesses are confused when presented with the note.",
-           "graphics" : "",
-       },
-       {
-           "question" : "What event began on April 12, 1861?",
+           "question" : "Mehr als die Hälfte der Ausländer sind ledig.",
            "image" : "",
            "choices" : [
-                                   "First manned flight",
-                                   "California became a state",
-                                   "American Civil War began",
-                                   "Declaration of Independence"
+                                   "So ist es!",
+                                   "Stimmt nicht!"
                                ],
-           "correct" : "American Civil War began",
-           "explanation" : "South Carolina came under attack when Confederate soldiers attacked Fort Sumter. The war lasted until April 9th 1865.",
-           "graphics" : "",
+           "correct" : "So ist es!",
+           "explanation" : "In der Mitte",
+           "graphics" : '<img src="img/5.png" alt="Zivilstand" class="center">'
        },
-
+       
+       {
+           "question" : "Die meisten Ausländer haben Kinder",
+           "image" : "",
+           "choices" : [
+                                   "So ist es!",
+                                   "Stimmt nicht!",
+                               ],
+           "correct" : "Stimmt nicht!",
+           "explanation" : "Im Jahr 2017 wohnten in Zürich mehr Männer mit einem ausländischen Pass",
+           "graphics" : '<img src="img/6.png" alt="Kinder" class="center">'
+       },
 
    ];
 
