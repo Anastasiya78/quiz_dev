@@ -4,7 +4,7 @@ var quiztitle = "Quiz";
 
 var quiz = [
        {
-           "question" : " Die Hälfte der Ausländer in Zürich hat einen deutschen Pass.",
+           "question" : " Mehr als ein Drittel der Ausländer in Zürich hat einen deutschen Pass.",
            "image" : "",
            "choices" : [
                                    "So ist es!",
