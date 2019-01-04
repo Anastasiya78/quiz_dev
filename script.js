@@ -12,7 +12,7 @@ var quiz = [
                                ],
            "correct" : "So ist es!",
            "explanation" : "Die Aussage entspricht nicht der Realität.",
-           "graphics" : '<img src="img/1.png" alt="Nationalitäten" class="center">'
+           "graphics" : '<img src="img/1.png" alt="Nationalitäten" class="center" height="200" width="200">'
        },
        {
            "question" : "Mehr Männer als Frauen sind Ausländer",
@@ -23,7 +23,7 @@ var quiz = [
                                ],
            "correct" : "So ist es!",
            "explanation" : "Im Jahr 2017 wohnten in Zürich mehr Männer mit einem ausländischen Pass",
-           "graphics" : '<img src="img/2.png" alt="Geschlecht" class="center">'
+           "graphics" : '<img src="img/2.png" alt="Geschlecht" class="center" height="200" width="200">'
        },
        {
            "question" : "Der Ausländeranteil ist im Oerlikon am grössten.",
