@@ -26,7 +26,7 @@ var quiz = [
            "graphics" : '<img src="img/2.png" alt="Geschlecht" class="custom_class">'
        },
        {
-           "question" : "Unter Zürcher Stadtquartieren weist Oerlikon den höchsten Ausländeranteil auf:.",
+           "question" : "Unter Zürcher Stadtquartieren weist Oerlikon den höchsten Ausländeranteil auf.",
            "image" : "",
            "choices" : [
                                    "So ist es!",
@@ -37,7 +37,7 @@ var quiz = [
            "graphics" : '<img src="img/3.png" alt="Stadtquartier" class="custom_class">'
        },
        {
-           "question" : "Mehr als 40% der 20 bis 39-Jährigen in Zürich haben keinen Schweizer Pass.",
+           "question" : "Mehr als 40 Prozent der 20 bis 39-Jährigen in Zürich haben keinen Schweizer Pass.",
            "image" : "",
            "choices" : [
                                    "So ist es!",
@@ -60,7 +60,7 @@ var quiz = [
        },
        
        {
-           "question" : "Mehr als 80% der Ausländer in Zürich haben keine Kinder",
+           "question" : "Mehr als 80 Prozent der Ausländer in Zürich haben keine Kinder",
            "image" : "",
            "choices" : [
                                    "So ist es!",
