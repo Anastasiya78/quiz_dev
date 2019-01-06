@@ -4,36 +4,36 @@ var quiztitle = "Quiz";
 
 var quiz = [
        {
-           "question" : " Mehr als ein Drittel der Ausländer in Zürich hat einen deutschen Pass.",
+           "question" : "Mehr als ein Drittel der Ausländer in Zürich hat einen deutschen Pass.",
            "image" : "",
            "choices" : [
                                    "So ist es!",
                                    "Stimmt nicht!",
                                ],
            "correct" : "Stimmt nicht!",
-           "explanation" : "Die Aussage entspricht nicht der Realität. Zwar repräsentierten deutsche Staatsangehörigen die grösste Gruppe der ausländischen Bevölkerung in Zürich, doch ihr Anteil belief sich auf 24,7 Prozent. Die anderen dominierenden Herkunftsländer sind auch europäisch. Jeweils über 5 Prozent der ausländischen Bevölkerung machen Menschen aus Italien und Portugal aus. Weitere Nationalitäten kommen deutlich seltener vor.Und wie ist es mit der Vorstellung, dass mehr Männer als Frauen nach Zürich wegziehen?",
+           "explanation" : "Die Aussage entspricht nicht der Realität. Zwar repräsentierten deutsche Staatsangehörigen die grösste Gruppe der ausländischen Bevölkerung in Zürich, doch belief sich ihr Anteil auf 24,7 Prozent. Die anderen dominierenden Herkunftsländer sind auch europäisch: Jeweils über 5 Prozent der ausländischen Bevölkerung machen Menschen aus Italien und Portugal aus. Weitere Nationalitäten kommen deutlich seltener vor. Und wie ist es mit der Vorstellung, dass mehr Männer als Frauen nach Zürich wegziehen?",
            "graphics" : '<img src="img/1.png" alt="Nationalitäten" class="custom_class">'
        },
        {
-           "question" : "Nach Zürich ziehen aus dem Ausland mehr Männer als Frauen.",
+           "question" : "Nach Zürich wandern aus dem Ausland mehr Männer als Frauen ein.",
            "image" : "",
            "choices" : [
                                    "So ist es!",
                                    "Stimmt nicht!",
                                ],
            "correct" : "So ist es!",
-           "explanation" : "Im Jahr 2017 wohnten in Zürich mehr Männer mit einem ausländischen Pass",
+           "explanation" : "Das Vorurteil entspricht der Realität, aber sehr knapp. Es gibt nur etwas mehr Ausländer als Ausländerinnen in der Stadt. 7 Prozentpunkte mehr Männer als Frauen hatten im Jahr 2017 keinen Schweizer Pass. Und in welchen Zürcher Stadtquartieren wohnen sie?",
            "graphics" : '<img src="img/2.png" alt="Geschlecht" class="custom_class">'
        },
        {
-           "question" : "Unter Zürcher Stadtquartieren weist Oerlikon den höchsten Ausländeranteil auf.",
+           "question" : "Unter Zürcher Stadtquartieren weist Altstetten den höchsten Ausländeranteil auf.",
            "image" : "",
            "choices" : [
                                    "So ist es!",
                                    "Stimmt nicht!"
                                ],
            "correct" : "Stimmt nicht!",
-           "explanation" : "Den höchsten Ausländeranteil weist Schwamendingen auf: Fast die Hälfte (42,3 Prozent) der Einwohner des Quartiers hat keinen roten Pass. Vergleichsweise multikulturell sind auch Seefeld und Seebach mit jeweils über 39 Prozent. Wenig Ausländer wohnen hingegen in Höngg, Witikon und vor allem Friesenberg, wo sie nur 18,5 Prozent der Bevölkerung stellen.",
+           "explanation" : "Die Aussage entspricht nicht der Realität. Zwar leben die meisten Zürcher Ausländer (8,5 Prozent) in Altstetten. Deren Anteil an der Quartiersbevölkerung ist aber in Schwamendingen am grössten: Hier hat fast die Hälfte (42,3 Prozent) der Einwohner einen ausländischen Pass. Seefeld, Seebach und Langstrasse sind auch mit jeweils über 39 Prozent vergleichsweise international. Den tiefsten Ausländeranteil hat Friesenberg, wo die Einwanderer nur 18,5 Prozent der Bevölkerung ausmachen. Und wie alt sind die sich in der Stadt unterschiedlich verteilten Einwanderer?",
            "graphics" : '<img src="img/3.png" alt="Stadtquartier" class="custom_class">'
        },
        {
@@ -44,30 +44,30 @@ var quiz = [
                                    "Stimmt nicht!",
                                ],
            "correct" : "So ist es!",
-           "explanation" : "Fast",
+           "explanation" : "Die Aussage entspricht der Realität. Fast die Hälfte der 29 bis 39-Jährigen Zürcher sind tatsächlich Ausländer. Bei den anderen Altersgruppen ist ihr Anteil deutlich geringer: Während bei den 40 bis 39-Jährigen der Anteil noch relativ hoch bleibt (knapp 33 Prozent), sind Einwanderer in den älteren Gruppen eher schwach vertreten. Die jüngsten Zürcher haben relativ oft keinen Schweizer Pass: Ihr Anteil belief sich im Jahr 2017 auf knapp 27 Prozent. Nun lassen Sie uns das Thema Zivilstand der Einwanderer kurz ansprechen.",
            "graphics" : '<img src="img/4.png" alt="Alter" class="custom_class">'
        },
        {
-           "question" : "Ein Drittel der Ausländer in Zürich ist ledig.",
+           "question" : "Die Mehrheit der Zürcher Ausländer ab 20 Jahren ist verheiratet.",
            "image" : "",
            "choices" : [
                                    "So ist es!",
                                    "Stimmt nicht!"
                                ],
            "correct" : "Stimmt nicht!",
-           "explanation" : "In der Mitte",
+           "explanation" : "Die Aussage entspricht nicht der Realität. Der Anteil der Ausländer an 20 Jahren mit Familienverband betrug Ende 2017 rund 42 Prozent. 47 Prozent waren ledig und mehr als 8 Prozent geschieden. Und wie sieht die Aufteilung der  ausländischen Bevölkerung nach Kindersituation aus?",
            "graphics" : '<img src="img/5.png" alt="Zivilstand" class="custom_class">'
        },
        
        {
-           "question" : "Mehr als 80 Prozent der Ausländer in Zürich haben keine Kinder",
+           "question" : "Knapp 80 Prozent der Ausländer in Zürich haben keine Kinder",
            "image" : "",
            "choices" : [
                                    "So ist es!",
                                    "Stimmt nicht!",
                                ],
            "correct" : "So ist es!",
-           "explanation" : "Im Jahr 2017 wohnten in Zürich mehr Männer mit einem ausländischen Pass",
+           "explanation" : "Die Aussage entspricht der Realität. Die überwiegende Mehrheit der Einwanderer war im Jahr 2017 kinderlos. Rund 12 Prozent hatten ein Kind, während 10.5 Prozent der ausländischen Bewohner hatten mehr als zwei Kinder in der Familie.",
            "graphics" : '<img src="img/6.png" alt="Kinder" class="custom_class">'
        },
 
