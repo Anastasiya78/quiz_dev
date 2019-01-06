@@ -11,7 +11,7 @@ var quiz = [
                                    "Stimmt nicht!",
                                ],
            "correct" : "Stimmt nicht!",
-           "explanation" : "Die Aussage entspricht nicht der Realität. Zwar repräsentierten deutsche Staatsangehörige die grösste Gruppe der ausländischen Bevölkerung in Zürich, doch belief sich ihr Anteil nur auf 24,7 Prozent. Die anderen dominierenden Herkunftsländer sind auch europäisch: Jeweils über 5 Prozent der ausländischen Bevölkerung machen Menschen aus Italien und Portugal aus. Weitere Nationalitäten kommen deutlich seltener vor. Und wie ist es mit der Vorstellung, dass mehr Männer als Frauen nach Zürich ziehen?",
+           "explanation" : "Die Aussage entspricht nicht der Realität. Zwar repräsentierten deutsche Staatsangehörige die grösste Gruppe der ausländischen Bevölkerung in Zürich, doch belief sich ihr Anteil nur auf 24.7 Prozent. Die anderen dominierenden Herkunftsländer sind auch europäisch: Jeweils über 5 Prozent der ausländischen Bevölkerung machen Menschen aus Italien und Portugal aus. Weitere Nationalitäten kommen deutlich seltener vor. Und wie ist es mit der Vorstellung, dass mehr Männer als Frauen nach Zürich ziehen?",
            "graphics" : '<img src="img/1.png" alt="Nationalitäten" class="custom_class">'
        },
        {
@@ -33,7 +33,7 @@ var quiz = [
                                    "Stimmt nicht!"
                                ],
            "correct" : "Stimmt nicht!",
-           "explanation" : "Die Aussage entspricht nicht der Realität. Zwar leben die meisten Zürcher Ausländer (8,5 Prozent) in Altstetten, deren Anteil an der Quartiersbevölkerung ist aber in Schwamendingen am grössten: Hier hat fast die Hälfte (42,3 Prozent) der Einwohner einen ausländischen Pass. Seefeld, Seebach und Langstrasse sind auch mit jeweils über 39 Prozent vergleichsweise international. Den geringsten Ausländeranteil hat Friesenberg, wo die Einwanderer nur 18,5 Prozent der Bevölkerung ausmachen. Und wie alt sind die in der Stadt unterschiedlich verteilten Einwanderer?",
+           "explanation" : "Die Aussage entspricht nicht der Realität. Zwar leben die meisten Zürcher Ausländer (8.5 Prozent) in Altstetten, deren Anteil an der Quartiersbevölkerung ist aber in Schwamendingen am grössten: Hier hat fast die Hälfte (42.3 Prozent) der Einwohner einen ausländischen Pass. Seefeld, Seebach und Langstrasse sind auch mit jeweils über 39 Prozent vergleichsweise international. Den geringsten Ausländeranteil hat Friesenberg, wo die Einwanderer nur 18.5 Prozent der Bevölkerung ausmachen. Und wie alt sind die in der Stadt unterschiedlich verteilten Einwanderer?",
            "graphics" : '<img src="img/3.png" alt="Stadtquartier" class="custom_class">'
        },
        {
