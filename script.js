@@ -60,7 +60,7 @@ var quiz = [
        },
        
        {
-           "question" : "Mehr als drei Viertel der Ausländer in Zürich haben keine Kinder",
+           "question" : "Mehr als drei Viertel der Ausländer in Zürich haben keine Kinder.",
            "image" : "",
            "choices" : [
                                    "So ist es!",
@@ -104,7 +104,7 @@ jQuery(document).ready(function ($) {
         submt = true;
         $('#explanation').empty();
         $('#question').text(quiz[currentquestion]['question']);
-        $('#pager').text('<Question ' + Number(currentquestion + 1) + ' of ' + quiz.length + '>');
+        $('#pager').text('<Frage ' + Number(currentquestion + 1) + ' von ' + quiz.length + '>');
         if (quiz[currentquestion].hasOwnProperty('image') && quiz[currentquestion]['image'] != "") {
             if ($('#question-image').length == 0) {
                 $(document.createElement('img')).addClass('question-image').attr('id', 'question-image').attr('src', quiz[currentquestion]['image']).attr('alt', htmlEncode(quiz[currentquestion]['question'])).insertAfter('#question');
@@ -149,7 +149,7 @@ jQuery(document).ready(function ($) {
             $('#explanation').html(quiz[currentquestion]['graphics'] + '<strong>Falsch.</strong> ' + htmlEncode(quiz[currentquestion]['explanation']));
         }
         currentquestion++;
-        $('#submitbutton').html('NEXT QUESTION &raquo;').on('click', function () {
+        $('#submitbutton').html('NÄCHSTE FRAGE &raquo;').on('click', function () {
             if (currentquestion == quiz.length) {
                 endQuiz();
             } else {
@@ -187,7 +187,7 @@ jQuery(document).ready(function ($) {
         $('#question').empty();
         $('#choice-block').empty();
         $('#submitbutton').remove();
-        $('#question').text("You got " + score + " out of " + quiz.length + " correct.");
+        $('#question').text("Du hast " + score + " von " + quiz.length + " Fragen richtig beantwortet.");
         $(document.createElement('h2')).css({
             'text-align': 'center',
             'font-size': '4em'
