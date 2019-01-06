@@ -55,7 +55,7 @@ var quiz = [
                                    "Stimmt nicht!"
                                ],
            "correct" : "Stimmt nicht!",
-           "explanation" : "Die Aussage entspricht nicht der Realität. Der Anteil der Ausländer an 20 Jahren mit Familienverband betrug Ende 2017 rund 42 Prozent. 47 Prozent waren ledig und mehr als 8 Prozent geschieden. Und wie sieht die Aufteilung der  ausländischen Bevölkerung nach Kindersituation aus?",
+           "explanation" : "Die Aussage entspricht nicht der Realität. Der Anteil der Ausländer ab 20 Jahren mit Familienverband betrug Ende 2017 rund 42 Prozent. 47 Prozent waren ledig und mehr als 8 Prozent geschieden. Und wie sieht die Aufteilung der  ausländischen Bevölkerung nach Kindersituation aus?",
            "graphics" : '<img src="img/5.png" alt="Zivilstand" class="custom_class">'
        },
        
@@ -67,7 +67,7 @@ var quiz = [
                                    "Stimmt nicht!",
                                ],
            "correct" : "So ist es!",
-           "explanation" : "Die Aussage entspricht der Realität. Die überwiegende Mehrheit der Einwanderer war im Jahr 2017 kinderlos. Rund 12 Prozent hatten ein Kind, während 10.5 Prozent der ausländischen Bewohner hatten mehr als zwei Kinder in der Familie.",
+           "explanation" : "Die Aussage entspricht der Realität. Die überwiegende Mehrheit der Einwanderer war im Jahr 2017 kinderlos. Rund 12 Prozent hatten ein Kind, während 10.5 Prozent der ausländischen Bewohner mehr als zwei Kinder in der Familie hatten.",
            "graphics" : '<img src="img/6.png" alt="Kinder" class="custom_class">'
        },
 
