@@ -11,7 +11,7 @@ var quiz = [
                                    "Stimmt nicht!",
                                ],
            "correct" : "Stimmt nicht!",
-           "explanation" : "Die Aussage entspricht nicht der Realität. Zwar repräsentierten deutsche Staatsangehörigen die grösste Gruppe der ausländischen Bevölkerung in Zürich, doch belief sich ihr Anteil auf 24,7 Prozent. Die anderen dominierenden Herkunftsländer sind auch europäisch: Jeweils über 5 Prozent der ausländischen Bevölkerung machen Menschen aus Italien und Portugal aus. Weitere Nationalitäten kommen deutlich seltener vor. Und wie ist es mit der Vorstellung, dass mehr Männer als Frauen nach Zürich wegziehen?",
+           "explanation" : "Die Aussage entspricht nicht der Realität. Zwar repräsentierten deutsche Staatsangehörige die grösste Gruppe der ausländischen Bevölkerung in Zürich, doch belief sich ihr Anteil nur auf 24,7 Prozent. Die anderen dominierenden Herkunftsländer sind auch europäisch: Jeweils über 5 Prozent der ausländischen Bevölkerung machen Menschen aus Italien und Portugal aus. Weitere Nationalitäten kommen deutlich seltener vor. Und wie ist es mit der Vorstellung, dass mehr Männer als Frauen nach Zürich ziehen?",
            "graphics" : '<img src="img/1.png" alt="Nationalitäten" class="custom_class">'
        },
        {
@@ -22,7 +22,7 @@ var quiz = [
                                    "Stimmt nicht!",
                                ],
            "correct" : "So ist es!",
-           "explanation" : "Das Vorurteil entspricht der Realität, aber sehr knapp. Es gibt nur etwas mehr Ausländer als Ausländerinnen in der Stadt. 7 Prozentpunkte mehr Männer als Frauen hatten im Jahr 2017 keinen Schweizer Pass. Und in welchen Zürcher Stadtquartieren wohnen sie?",
+           "explanation" : "Das Vorurteil entspricht der Realität, wenn auch sehr knapp. Es gibt nur etwas mehr Ausländer als Ausländerinnen in der Stadt. 7 Prozentpunkte mehr Männer als Frauen hatten im Jahr 2017 keinen Schweizer Pass. Und in welchen Zürcher Stadtquartieren wohnen sie?",
            "graphics" : '<img src="img/2.png" alt="Geschlecht" class="custom_class">'
        },
        {
@@ -33,7 +33,7 @@ var quiz = [
                                    "Stimmt nicht!"
                                ],
            "correct" : "Stimmt nicht!",
-           "explanation" : "Die Aussage entspricht nicht der Realität. Zwar leben die meisten Zürcher Ausländer (8,5 Prozent) in Altstetten. Deren Anteil an der Quartiersbevölkerung ist aber in Schwamendingen am grössten: Hier hat fast die Hälfte (42,3 Prozent) der Einwohner einen ausländischen Pass. Seefeld, Seebach und Langstrasse sind auch mit jeweils über 39 Prozent vergleichsweise international. Den tiefsten Ausländeranteil hat Friesenberg, wo die Einwanderer nur 18,5 Prozent der Bevölkerung ausmachen. Und wie alt sind die sich in der Stadt unterschiedlich verteilten Einwanderer?",
+           "explanation" : "Die Aussage entspricht nicht der Realität. Zwar leben die meisten Zürcher Ausländer (8,5 Prozent) in Altstetten, deren Anteil an der Quartiersbevölkerung ist aber in Schwamendingen am grössten: Hier hat fast die Hälfte (42,3 Prozent) der Einwohner einen ausländischen Pass. Seefeld, Seebach und Langstrasse sind auch mit jeweils über 39 Prozent vergleichsweise international. Den geringsten Ausländeranteil hat Friesenberg, wo die Einwanderer nur 18,5 Prozent der Bevölkerung ausmachen. Und wie alt sind die in der Stadt unterschiedlich verteilten Einwanderer?",
            "graphics" : '<img src="img/3.png" alt="Stadtquartier" class="custom_class">'
        },
        {
@@ -44,7 +44,7 @@ var quiz = [
                                    "Stimmt nicht!",
                                ],
            "correct" : "So ist es!",
-           "explanation" : "Die Aussage entspricht der Realität. Fast die Hälfte der 29 bis 39-Jährigen Zürcher sind tatsächlich Ausländer. Bei den anderen Altersgruppen ist ihr Anteil deutlich geringer: Während bei den 40 bis 39-Jährigen der Anteil noch relativ hoch bleibt (knapp 33 Prozent), sind Einwanderer in den älteren Gruppen eher schwach vertreten. Die jüngsten Zürcher haben relativ oft keinen Schweizer Pass: Ihr Anteil belief sich im Jahr 2017 auf knapp 27 Prozent. Nun lassen Sie uns das Thema Zivilstand der Einwanderer kurz ansprechen.",
+           "explanation" : "Die Aussage entspricht der Realität. Fast die Hälfte der 20 bis 39-jährigen Zürcher sind tatsächlich Ausländer. Bei den anderen Altersgruppen ist ihr Anteil deutlich geringer: Während bei den 40 bis 39-Jährigen der Anteil noch relativ hoch bleibt (knapp 33 Prozent), sind Einwanderer in den älteren Gruppen eher schwach vertreten. Die jüngsten Zürcher haben relativ oft keinen Schweizer Pass: Ihr Anteil belief sich im Jahr 2017 auf knapp 27 Prozent. Nun lassen Sie uns das Thema Zivilstand der Einwanderer kurz ansprechen.",
            "graphics" : '<img src="img/4.png" alt="Alter" class="custom_class">'
        },
        {
@@ -55,12 +55,12 @@ var quiz = [
                                    "Stimmt nicht!"
                                ],
            "correct" : "Stimmt nicht!",
-           "explanation" : "Die Aussage entspricht nicht der Realität. Der Anteil der Ausländer ab 20 Jahren mit Familienverband betrug Ende 2017 rund 42 Prozent. 47 Prozent waren ledig und mehr als 8 Prozent geschieden. Und wie sieht die Aufteilung der  ausländischen Bevölkerung nach Kindersituation aus?",
+           "explanation" : "Die Aussage entspricht nicht der Realität. Der Anteil der Ausländer ab 20 Jahren, die verheiratet sind, betrug Ende 2017 rund 42 Prozent. 47 Prozent waren ledig und mehr als 8 Prozent geschieden. Und wie sieht die Aufteilung der ausländischen Bevölkerung nach der Anzahl an Kindern aus?",
            "graphics" : '<img src="img/5.png" alt="Zivilstand" class="custom_class">'
        },
        
        {
-           "question" : "Knapp 80 Prozent der Ausländer in Zürich haben keine Kinder",
+           "question" : "Mehr als drei Viertel der Ausländer in Zürich haben keine Kinder",
            "image" : "",
            "choices" : [
                                    "So ist es!",
@@ -129,7 +129,7 @@ jQuery(document).ready(function ($) {
             $('.choice').eq(choice).css({
                 'background-color': '#50D943'
             });
-            $('#explanation').html(quiz[currentquestion]['graphics'] + '<strong>Correct!</strong> ' + htmlEncode(quiz[currentquestion]['explanation']));
+            $('#explanation').html(quiz[currentquestion]['graphics'] + '<strong>Richtig!</strong> ' + htmlEncode(quiz[currentquestion]['explanation']));
             score++;
         } else {
             if (quiz[currentquestion]['graphics'].length > 0) {
@@ -146,7 +146,7 @@ jQuery(document).ready(function ($) {
             $('.choice').eq(tmp.findIndex(findCorrectAnswer)).css({
                 'background-color': '#50D943'
             });
-            $('#explanation').html(quiz[currentquestion]['graphics'] + '<strong>Incorrect.</strong> ' + htmlEncode(quiz[currentquestion]['explanation']));
+            $('#explanation').html(quiz[currentquestion]['graphics'] + '<strong>Falsch.</strong> ' + htmlEncode(quiz[currentquestion]['explanation']));
         }
         currentquestion++;
         $('#submitbutton').html('NEXT QUESTION &raquo;').on('click', function () {
