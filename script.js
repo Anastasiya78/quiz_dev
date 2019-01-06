@@ -11,7 +11,7 @@ var quiz = [
                                    "Stimmt nicht!",
                                ],
            "correct" : "Stimmt nicht!",
-           "explanation" : "Die Aussage entspricht nicht der Realität.",
+           "explanation" : "Die Aussage entspricht nicht der Realität. Zwar repräsentierten deutsche Staatsangehörigen die grösste Gruppe der ausländischen Bevölkerung in Zürich, doch ihr Anteil belief sich auf 24,7 Prozent. Die anderen dominierenden Herkunftsländer sind auch europäisch. Jeweils über 5 Prozent der ausländischen Bevölkerung machen Menschen aus Italien und Portugal aus. Weitere Nationalitäten kommen deutlich seltener vor.Und wie ist es mit der Vorstellung, dass mehr Männer als Frauen nach Zürich wegziehen?",
            "graphics" : '<img src="img/1.png" alt="Nationalitäten" class="custom_class">'
        },
        {
