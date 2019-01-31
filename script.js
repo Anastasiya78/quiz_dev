@@ -44,7 +44,7 @@ var quiz = [
                                    "Stimmt nicht!",
                                ],
            "correct" : "So ist es!",
-           "explanation" : "Die Aussage entspricht der Realität. Fast die Hälfte der 20 bis 39-jährigen Zürcher sind tatsächlich Ausländer. Bei den anderen Altersgruppen ist ihr Anteil deutlich geringer: Während bei den 40 bis 39-Jährigen der Anteil noch relativ hoch bleibt (knapp 33 Prozent), sind Einwanderer in den älteren Gruppen eher schwach vertreten. Die jüngsten Zürcher haben relativ oft keinen Schweizer Pass: Ihr Anteil belief sich im Jahr 2017 auf knapp 27 Prozent. Nun lassen Sie uns das Thema Zivilstand der Einwanderer kurz ansprechen.",
+           "explanation" : "Die Aussage entspricht der Realität. Fast die Hälfte der 20 bis 39-jährigen Zürcher sind tatsächlich Ausländer. Bei den anderen Altersgruppen ist ihr Anteil deutlich geringer: Während bei den 40 bis 59-Jährigen der Anteil noch relativ hoch bleibt (knapp 33 Prozent), sind Einwanderer in den älteren Gruppen eher schwach vertreten. Die jüngsten Zürcher haben relativ oft keinen Schweizer Pass: Ihr Anteil belief sich im Jahr 2017 auf knapp 27 Prozent. Nun lassen Sie uns das Thema Zivilstand der Einwanderer kurz ansprechen.",
            "graphics" : '<img src="img/4.png" alt="Alter" class="custom_class">'
        },
        {
